@@ -1499,7 +1499,7 @@
 <!-- AdminLTE App -->
 <script src="<?php echo base_url(); ?>assets/js/adminlte.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="<?php echo base_url(); ?>assets/js/demo.js"></script>
+<!-- <script src="<?php echo base_url(); ?>assets/js/demo.js"></script> -->
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="<?php echo base_url(); ?>assets/js/pages/dashboard.js"></script>
 </body>
